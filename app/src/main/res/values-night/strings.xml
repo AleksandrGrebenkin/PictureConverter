@@ -1,5 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">PictureConverter</string>
     <string name="choose_image">Choose Image</string>
     <string name="start_conversion">Start conversion</string>
     <string name="open_image_intent_title">Select Picture</string>
